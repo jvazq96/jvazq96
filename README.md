@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on any type of risk assessment applications or new assessment methodologies 
 - 📫 How to reach me - joelvazquezconsulting@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+
 
 <!---
 jvazq96/jvazq96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
